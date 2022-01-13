@@ -1,0 +1,44 @@
+1
+10 9 11 1 4 75 10 14 6 29 33
+Push 9
+Pop
+Push 11
+Pop
+Push 1
+Pop
+Push 4
+Pop
+Push 75
+Pop
+Push 10
+Pop
+Push 14
+Pop
+Push 6
+Pop
+Push 29
+Pop
+Push 33
+Pop
+
+
+
+2
+4 1 2 3 4
+3 5 6 7
+Push 1
+Pop
+Push 2 
+Push 7
+Push 6
+Push 5
+Pop
+Push 3 
+Pop 
+Pop 
+Pop 
+Push 4
+Pop
+Pop
+
+
